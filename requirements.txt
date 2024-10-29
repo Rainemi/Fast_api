@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+astrapy
+python-dotenv
+passlib[bcrypt]
+fastapi-users
