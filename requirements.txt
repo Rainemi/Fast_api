@@ -1,6 +1,7 @@
-fastapi
+fastapi[all]
 uvicorn
 astrapy
 python-dotenv
 passlib[bcrypt]
 fastapi-users
+Jinja2==3.1.4
