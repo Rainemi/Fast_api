@@ -24,7 +24,7 @@ users_table = "users"
 orders_table = "orders" 
 
 #Api endpoint
-api_endpoint = os.getenv("ASTRA_DB_API_ENDPOINT") 
+api_endpoint = "https://fast-api-516r.onrender.com/"
 
 # Homepage view
 templates = Jinja2Templates(directory="templates")
